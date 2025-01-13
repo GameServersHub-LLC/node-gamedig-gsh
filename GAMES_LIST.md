@@ -222,7 +222,7 @@
 | openttd              | OpenTTD                                          |                                                 |
 | painkiller           | Painkiller                                       |                                                 |
 | palworld             | Palworld                                         |                                                 |
-| pathoftitans         | Path of Titans                                   | [Valve Protocol](#valve)                        |
+| pot                  | Path of Titans                                   | [Valve Protocol](#valve)                        |
 | pce                  | Primal Carnage: Extinction                       | [Valve Protocol](#valve)                        |
 | pixark               | PixARK                                           | [Valve Protocol](#valve)                        |
 | postal2              | Postal 2                                         |                                                 |
